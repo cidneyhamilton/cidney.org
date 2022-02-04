@@ -1,6 +1,6 @@
 # cidney.org
 
-This is the source code for my personal website. I keep it sporadically updated.
+This is the source code for my statically generated personal website. I keep it sporadically updated.
 
 ## License and Acknowledgments
 
