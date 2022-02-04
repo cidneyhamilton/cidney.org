@@ -14,11 +14,12 @@ This was what I ended up doing.
 
 ### Install the Software
 
-Getting my email to work required installing a lot of different small tools:
+Getting my email to work required installing a lot of different tools:
 
 * mu, a command line email client and the basis for mu4e. allows me to make sense of my mail directory.
 * mbsync, a command line tool that syncs my IMAP server with my local mail directory. I need this to actually grab mail from the server.
 * mu4e, the emacs package that acts as an interface to mu.
+* emacs itself
 
 I also need an IMAP account to actually grab the mail from. I've been using [Fastmail](http://fastmail.com), which also has a web interface I can fall back to.
 
@@ -32,29 +33,34 @@ First, I have to install it.
 sudo apt install isync
 ```
 
+Then I need to set up a mail folder to receive the incoming mail. The default name is `Maildir`.
+
+```
+mkdir ~/Maildir
+```
+
 Then I have to configure it. This involves editing a file named `~/.mbsyncrc` .
 
 Mine looks like:
 
 ```
-# First section: remote IMAP account
+# Configure remote IMAP account
 IMAPAccount fastmail
 Host imap.fastmail.com
 Port 993
 User cidney@fastmail.com
-PassCmd "cat ~/.mbsync-fastmail"
+PassCmd "cat ~/.mbsync-pwd
 SSLType IMAPS
 SSLVersions TLSv1.2
-
 IMAPStore fastmail-remote
 Account fastmail
 
-# This section describes the local storage
+# Configure local storage
 MaildirStore fastmail-local
 Path ~/Maildir/
 Inbox ~/Maildir/INBOX
 
-# This section a "channel", a connection between remote and local
+# Configure channels
 Channel fastmail
 Master :fastmail-remote:
 Slave :fastmail-local:
@@ -66,23 +72,37 @@ Create Slave
 SyncState *
 ```
 
-Configuring the password is a tricky command. For now I'm just reading from another text file. But I can't just use my Fastmail password. I have to go in and create an app password for mail syncing to work.
+All of these properties are documented [here](https://isync.sourceforge.io/mbsync.html).
 
-The password is the tricky part. Fastmail requires me to [create an app password](https://www.fastmail.help/hc/en-us/articles/360058752854) to access my email. I set this up.
+PassCmd requires a special note. For now I'm reading it from a plain text file; encryption is beyond the scope of this blog post.
+
+Using Fastmail means I can't just use my account password. I have to go in and [create an app password](https://www.fastmail.help/hc/en-us/articles/360058752854) to access my email. 
 
 Now, running
 
 ```
-mbysnc -a
+mbsync -a
 ```
 
-in the command line fetches all of my emails. I can verify this easily by looking at the contents of my `~/Maildir` directory.
+from a terminal prompt fetches all of my emails. I can verify this easily by looking at the contents of my `~/Maildir` directory.
 
-Now I can initialize mu to use the mail directory.
+### Setting up mu
+
+Now I can set up mu to use the mail directory.
+
+It needs to be installed first. On my operating system, the command is:
+
+```
+sudo apt install maildir-utils
+```
+
+Then I can initialize it.
 
 ```
 mu init --maildir=~/Maildir --my-address=cidney@cidneyhamilton.com
 ```
+
+This will create the initial store.
 
 I can now use mu from the command line to search my emails.
 
@@ -91,11 +111,21 @@ mu index
 mu find hello
 ```
 
-All good! Now to get it configured in Emacs.
+All good! Now to set up mu4e
+
+### Installing mu4e
+
+Install from the command line with:
+
+```
+sudo apt install mu4e
+```
 
 ### Configuring Emacs
 
-I use a `mail.el` file to hand my mail configuration. First I need to require the mu4e package.
+I include a `mail.el` file in my configuration to handle my mail configuration, though all of these can be added to `init.el` easily.
+
+ First I need to require the mu4e package.
 
 ```
 (require 'mu4e)
@@ -109,9 +139,31 @@ In order to get mail with mbysnc via an emacs keybinding, I need to add
 
 I'm also using some additional configuration parameters borrowed from [Rakhim's tutorial on setting up mu4e on MacOS](https://rakhim.org/fastmail-setup-with-emacs-mu4e-and-mbsync-on-macos/).
 
+```
+;; Show addresses in viewed messages
+(setq mu4e-view-show-addresses t)
+
+;; Needed for mbsync
+(setq mu4e-change-filenames-when-moving t)
+
+;; Set path to the attachments directory
+(setq mu4e-attachments-dir "~/Downloads")
+
+;; Set path to the mail directory
+(setq mu4e-maildir       "~/Maildir")
+
+;; Set additional folders
+;; These are set relative to mu4e-maildir
+(setq mu4e-sent-folder   "/Sent")
+(setq mu4e-drafts-folder "/Drafts")
+(setq mu4e-trash-folder  "/Trash")
+```
+
+Now, when I enter `M-x mu4e` in emacs, I launch mu4e and can read my email.
+
 ### Sending Mail with MSMTP
 
-I also need to be able to send mail with mu4e! This requires setting up SMTP. This is always the tricky part.
+Right now I can receive mail, but I can't send it! This will require me to configure SMTP locally to send mail.
 
 I use `msmtp` for this.
 
@@ -119,7 +171,7 @@ I use `msmtp` for this.
 sudo apt install msmtp
 ```
 
-Now it needs to be configured. My configuration looks like:
+Now it needs to be configured. I create a configuration file named `~/.msmtprc`. After I enter my configuration information, it looks like this:
 
 ```
 defaults
@@ -131,7 +183,7 @@ account fastmail
 host smtp.fastmail.com
 port 465
 user cidney@fastmail.com
-passwordeval "cat ~/.mbsync-fastmail"
+passwordeval "cat ~/.mbsync-pwd"
 tls_starttls off
 from cidney@cidneyhamilton.com
 
@@ -152,7 +204,9 @@ Finally, I need to update my `mail.el` file for sending mail. First I need to fi
 )
 ```
 
-I start out by sending a test email to another mail server. It works!
+From here I can relaunch Emacs, open mu4e with `M-x mu4e`, and compose and send a test email to another account to verify that everything works.
+
+
 
 
 
