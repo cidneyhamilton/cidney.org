@@ -6,7 +6,7 @@ date: 2021-12-05
 
 I have a wife now! Cat and I got handfasted in early November, at a nature preserve near where we live. Because of complicated family dynamics, we kept things very small. We're planning a separate reception for our families in the near future.
 
-I'm still working on the VR port of <a href="http://kensgame.com" target="_blank">Ken Williams' new game</a>. It's actively moving along; check out <a href="https://cygnusentertainment.com/blog/" target="_blank">Ken's blog</a> for updates. I'm focused on user interface development right now and working closely with Roberta Williams; things are coming along nicely, and I can't wait for people to be able to play it.
+I'm still working on the VR port of <a href="https://kensgame.com" target="_blank">Ken Williams' new game</a>. It's actively moving along; check out <a href="https://cygnusentertainment.com/blog/" target="_blank">Ken's blog</a> for updates. I'm focused on user interface development right now and working closely with Roberta Williams; things are coming along nicely, and I can't wait for people to be able to play it.
 
 Ken recently started a new company-- Cygnus Entertainment-- and hired two technical artists and one programmer, all of whom have been helping out with my project. I'd been working seven day weeks and getting very stressed out, so it's good to have more help and be able to take weekends off without needing to provide technical support. 
 

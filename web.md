@@ -11,4 +11,4 @@ I began doing freelance web development when I was a teenager, and got a job mak
 
 I don't really make websites any more, since making games is more fun. I barely have time to keep this one up to date. I do some freelance consulting, but mostly for old clients.
 
-If you need a website, I'm part of a [tech cooperative](http://willowbark.org) that can help out!
+If you need a website, I'm part of a [tech cooperative](https://willowbark.org) that can help out!
