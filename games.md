@@ -1,6 +1,8 @@
 ---
 layout: page
 title: game stuff
+permalink: /games/
+last_updated: February 8, 2022
 ---
 
 I make video games! Mostly with Unity, though I've also done some indie stuff with Godot, Inform, or just my own code. I'm a fan of free and open source gamedev tools for narrative design, such as Ink and Twine.

@@ -2,25 +2,26 @@
 layout: page
 title: Tools I Use
 permalink: /uses/
-last_updated: September 25, 2021
+last_updated: February 8, 2022
 ---
 
-## Programming Languages
+### Programming Languages
 
-* I'm primarily developing in C#, with Unity, these days.
-* I use Ink and GDScript (for Godot) for side projects.
-* Ruby (for web development, inclulding this website!); plus HTML/CSS/JavaScript
-
-Plus lots of others that I use less frequently.
+* I've mostly been developing games with [Unity](https://unity.com/) these days, since it's easier to find collaborators familiar with those tools.
+* But that's not the only thing I do! Lately I've been spending more time with [Ink](https://www.inklestudios.com/ink/), [Godot Engine](https://godotengine.org/), and native web things.
+* For back-end web stuff, I'm most familiar with Python and Ruby. This website is generated using [Jekyll](https://jekyllrb.com/).
 
 ### Software
 
-I develop on Linux (using Ubuntu Studio). I use other platforms primarily for testing.
-
-I use Emacs for programming, creative writing, and technical writing. Since I'm primarily developing with Unity when making games with other people, and Unity is built around C# and a Microsoft dev environment, I've had to jump through some hoops to get it working.
-
-I prefer to use free software for multimedia; though I got started with Adobe in school. For graphics, I mostly Krita and Blender, plus Aseprite for pixel art, and GIMP, Inkscape, and Scribus as needed. I've begun composing my own music and recording my sound effects for gamejams, but have been reliant on an older Mac with Garageband to work with my digital piano and get sound into the game efficiently.
+* I use [Emacs](https://www.gnu.org/software/emacs/download.html) for programming, creative writing, and technical writing. 
+* For graphics, I mostly [Krita](https://krita.org/) and [Blender](https://www.blender.org/). I've been playing around with Aseprite lately for pixel art, with other tools as needed.
+* These days I primarily use [Kubuntu](https://kubuntu.org/) as an operating system.
 
 ### Hardware
 
-I use a Wacom Intuos Pro Medium for drawing and painting. I have a Lenovo Legion Y-720 for game development, and an Oculus Quest 2 for VR testing.
+* Since late 2021 I've been developing on a [Framework laptop](https://frame.work/). I've found it less useful for EDS-related issues because the keyboard is so small; I have to plug in an additional mouse and keyboard to avoid injuring my hands!
+* I use a [Yahama P-45 digital piano](https://usa.yamaha.com/products/musical_instruments/pianos/p_series/) for composition, and just playing music.
+
+### Self-hosting
+
+* I self-host my cloud storage, personal git forge, IM server, and social media hub on [http://city-of-glass.net](http://city-of-glass.net). I began experimenting with [YuNoHost](https://yunohost.org/) towards the end of 2020 to make this less painful, and haven't gone back. I still occasionally host other things for experimentation and geekiness, but nothing I've tried to make stable.
