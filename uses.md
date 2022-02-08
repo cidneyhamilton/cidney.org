@@ -1,11 +1,9 @@
 ---
 layout: page
-title: Stuff I Use
+title: Tools I Use
 permalink: /uses/
 last_updated: September 25, 2021
 ---
-
-Curious about the tools I work with? They're listed here. This was inspired by <a href="http://uses.tech">uses.tech</a>.
 
 ## Programming Languages
 
