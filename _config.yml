@@ -23,6 +23,7 @@ css-link: "/assets/css/style.css"
 
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 exclude:
   - README.md
