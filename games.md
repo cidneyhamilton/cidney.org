@@ -11,10 +11,11 @@ I'm primarily a programmer, but I've also done 2D and 3D art, animation, music c
 
 Some commercial games I've worked or am working on:
 
-* [a new secret game with Ken and Roberta Williams](http://kensgame.com)
-* [Summer Daze at Hero-U](https://summerdazegame.com)
+* [Bubble Bonk](http://bubblebonk.com)
+* [Colossal Cave 3D Adventure](http://kensgame.com)
+* [Summer Daze: Tilly's Tale](https://summerdazegame.com)
 * [Hero-U: Rogue to Redemption](http://hero-u.com)
 
-My indie stuff is available on [itch.io]({{ site.itch-url }})
+My solo indie stuff is available on [itch.io]({{ site.itch-url }})
 
 
