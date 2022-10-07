@@ -50,9 +50,10 @@ IMAPAccount fastmail
 Host imap.fastmail.com
 Port 993
 User cidney@fastmail.com
-PassCmd "cat ~/.mbsync-pwd
+PassCmd "password here"
 SSLType IMAPS
 SSLVersions TLSv1.2
+
 IMAPStore fastmail-remote
 Account fastmail
 
@@ -63,13 +64,13 @@ Inbox ~/Maildir/INBOX
 
 # Configure channels
 Channel fastmail
-Master :fastmail-remote:
-Slave :fastmail-local:
+Far :fastmail-remote:
+Near :fastmail-local:
 Patterns *
 Expunge None
 CopyArrivalDate yes
 Sync All
-Create Slave
+Create Near
 SyncState *
 ```
 
