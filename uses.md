@@ -19,7 +19,7 @@ last_updated: February 8, 2022
 
 ### Hardware
 
-* Since late 2021 I've been developing on a [Framework laptop](https://frame.work/). I've found it less useful for EDS-related issues because the keyboard is so small; I have to plug in an additional mouse and keyboard to avoid injuring my hands!
+* I develop on a ThinkPad E15, which seems to strike a balance between accessibility and power, cost, and power.
 * I use a [Yahama P-45 digital piano](https://usa.yamaha.com/products/musical_instruments/pianos/p_series/) for composition, and just playing music.
 
 ### Self-hosting
