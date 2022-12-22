@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-last_updated: February 8, 2022
+last_updated: December 22, 2022
 ---
 
 {% include hcard.html %}
@@ -19,7 +19,7 @@ I host my own <a href="https://joinmastodon.org/">mastodon</a> instance, where y
 
 I host some of my games, including things for gamejams, at <a href="{{ site.itch-url }}" target="_blank">{{ site.itch-url }}</a>. My source code is available <a href="http://git.city-of-glass.net/gitea">my personal git forge</a> and <a href="{{ site.github-url }}">github for open source contributions</a>.
 
-The best way to get in touch with me is [email](mailto:cidney@cidneyhamilton.com)! Or use [my contact form](/contact). I'm also available on [XMPP](xmpp:cidney@im.city-of-glass.net) and [Matrix](https://matrix.to/#/@cidney:matrix.org).
+The best way to get in touch with me is [email](mailto:cidney@cidneyhamilton.com)! Or use [my contact form](/contact). 
 
 ## Privacy Policy
 
