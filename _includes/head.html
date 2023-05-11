@@ -1,36 +1,26 @@
 <meta charset="utf-8" />
 
-<meta name="application-name" content="{{ site.name }}" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+<link rel="stylesheet" href="{{ site.font-awesome | relative_url }}">
+<link rel="stylesheet" href=" {{ site.css-link | relative_url }}" />
+
+<link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
+
 <meta name="author" content="{{ site.author }}">
+<meta name="application-name" content="{{ site.title }}" />
 <meta name="generator" content="Jekyll">
-<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<meta property="og:locale" content="en_US" />
+<meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}" />
 <meta property="og:site_name" content="{{ site.title }}" />
-
-<meta property="og:title"
-    content="{% if page.title %}
-      {{ page.title | strip_html | strip_newlines | truncate: 160 }}
-    {% else %}
-      {{ site.title }}
-    {% endif %}">
-
-<meta property="og:description"
-    content="{% if page.excerpt %}
-        {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
-      {% else %}
-        {{ site.description }}
-      {% endif %}">
-
-
-<meta property="og:url"
-    content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-
-<meta name="twitter:site" content="@chronotope" />
-<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-
-<meta name="twitter:site" content="@chronotope" />
-<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+<meta property="og:locale" content="en_US" />
 
 
 {% if page.title %}
@@ -54,11 +44,13 @@
     <meta property="article:tag" content="{{tag}}" />
   {% endfor %}
 
-  <meta name="twitter:title" content="{{page.title}}" />
+		<meta name="twitter:title" content="{{page.title}}" />
 
 	  {% if page.image %}
     <meta property="og:image" content="{{page.image}}" />
     <meta name="twitter:image" content="{{page.image}}" />
+		<meta property="og:image:width" content="600" />
+		<meta property="og:image:height" content="315" />
   {% else %}
     <meta property="og:image" content="{{ site.default-image }}" />
     <meta name="twitter:image" content="{{ site.default-image }}" />
@@ -75,14 +67,8 @@
 {% endif %}
 <link href="https://gmpg.org/xfn/11" rel="profile" />
 
-<title>{{ site.name }}</title>
-
 <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url}}" />
 <link rel="apple-touch-icon-precomposed" href="{{ site.apple-touch-icon | relative_url }}"/>
 
-<link rel="stylesheet" href="{{ site.font-awesome | relative_url }}">
-<link rel="stylesheet" href=" {{ site.css-link | relative_url }}" />
-
-<link rel="alternate" type="application/rss+xml"  href="{{ site.url }}/feed.xml" title="{{ site.title }}">
 
 {% include relme.html %}
