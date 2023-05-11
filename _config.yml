@@ -7,11 +7,16 @@ description: personal website of Cidney Hamilton
 url: https://cidney.org
 source-url: https://github.com/cidneyhamilton/cidney.org
 
+# Social Links
+
 fedi-url: https://mastodon.gamedev.place/@cidney
 itch-url: https://cidney.itch.io
 github-url: https://github.com/cidneyhamilton
 gitlab-url: https://gitlab.com/cidney
 facebook-url: https://facebook.com/cidneydev
+
+# Social Sharing Images
+default-image: "/assets/images/default-image.png"
 
 # Icons 
 favicon: "/assets/images/favicon.ico"
