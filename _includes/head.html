@@ -26,6 +26,8 @@
 <meta name="twitter:url" content="{{ page.url | prepend: site.url }}" />
 <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+<meta name="twitter:card" content="summary_large_image" />
+
 {% if page.title %}
   <!-- Article specific OG data -->
   <!-- The OG:Type dictates a number of other tags on posts. -->
