@@ -22,6 +22,8 @@
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 <meta property="og:locale" content="en_US" />
 
+<meta name="twitter:domain" content="cidney.org" />
+<meta name="twitter:url" content="{{ page.url | prepend: site.url }}" />
 <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
 {% if page.title %}
@@ -49,8 +51,8 @@
 
 
 	  {% if page.image %}
-    <meta property="og:image" content="{{page.image | prepend: site.base_url | prepend: site.url }}" />
-    <meta name="twitter:image" content="{{page.image | prepend: site.base_url | prepend: site.url }}" />
+    <meta property="og:image" content="{{page.image | prepend: site.url }}" />
+    <meta name="twitter:image" content="{{page.image | prepend: site.url }}" />
 		<meta property="og:image:width" content="600" />
 		<meta property="og:image:height" content="315" />
   {% else %}
