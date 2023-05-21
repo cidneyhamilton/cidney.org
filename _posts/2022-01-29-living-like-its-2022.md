@@ -4,7 +4,7 @@ title: Living Like It's 2022
 date: 2022-01-29
 ---
 
-At the beginning of 2021, I spent a fair amount of time taking stock of my situation. I'd just left the game studio I'd worked at for the last five years, and was uncertain about next steps. Would I stick with narrative gaming, go back to web development, or something else? I had completed the first draft of a novel, made it through a grueling legal battle against my abusive birth mother, and was beginning to process and heal. My partner and I had been discussing getting handfasted, as an alternative to legal marriage.
+At the beginning of 2021, I spent a fair amount of time taking stock of my situation. I'd just left the game studio I'd worked at for the last five years, and was uncertain about next steps. Would I stick with narrative gaming, go back to web development, or something else? I had completed the first draft of a novel, made it through a grueling legal battle against my abusive birth mother, and was beginning to process and heal.
 
 2021 hit hard. I spent a month in and out of the hospital, after finding out a vitamin supplement I'd been taking interactedly poorly with my EDS and with the COVID vaccine. A friend texted me on the drive home and asked if I was interested in working on a game with the Williamses. (As in, Ken and Roberta Williams. The people who'd founded Sierra, where my old bosses worked, who to my knowledge had bought a yacht and were never going to return to the game industry.) I said yes and began working on [Ken's new game](http://kensgame.com), which as of January 2022 is still unnannounced.
 
