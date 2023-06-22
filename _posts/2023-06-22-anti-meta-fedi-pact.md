@@ -4,8 +4,8 @@ title: Signing the Anti-Meta Fedi Pact
 date: 2023-06-22
 ---
 
-Recently, [Vanta Black](https://vantaa.black/)'s
-[#FediPact](https://fedipact.online/) has gotten pushback from [Hacker
+Recently, the [Anti-Meta Fedi Pact](https://fedipact.online/) has
+gotten pushback from [Hacker
 News](https://news.ycombinator.com/item?id=36384207), [John
 Gruber](https://daringfireball.net/linked/2023/06/19/not-that-kind-of-open),
 and others, decrying the fediverse as too insular and doomed and
@@ -21,7 +21,7 @@ is helpful.
 There are lots of reasons not to federate with Meta/Facebook. The
 signers of #FediPact disproportionately have "lgbt" or "queer" names
 and themes in their instances, which imply that protecting the online
-safety of their communities comes "reach".
+safety of their communities comes before "reach".
 
 I agree with not wanting to trust or federate with Facebook/Meta on
 principle, but don't want to elaborate on why right now. The main
