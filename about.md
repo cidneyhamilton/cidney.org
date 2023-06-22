@@ -2,14 +2,14 @@
 layout: page
 title: About Me
 permalink: /about/
-last_updated: December 22, 2022
+last_updated: 2023-06-22
 ---
 
 {% include hcard.html %}
 
 ## About This Site
 
-This is my realname domain! I've registered it so that other people can't pretend to be me, and that it's easy to contact me. :) It's a very simple static site without much real content. Occasionally I <a href="/blog">post stuff</a>.
+This is my realname domain! I've registered it so that other people can't pretend to be me, and that it's easy to contact me. :) It's a very simple static site without much real content. Occasionally I <a href="/blog">post stuff</a>. I am terrible at keeping in touch with people.
 
 I try to redesign it once a year. Right now I'm going with plain text, to make it text-browser friendly and to avoid clutter.
 
@@ -17,9 +17,9 @@ I try to redesign it once a year. Right now I'm going with plain text, to make i
 
 I host my own <a href="https://joinmastodon.org/">mastodon</a> instance, where you can follow me at <a href="{{ site.fedi-url }}" target="_blank">{{ site.fedi-url }}</a>.
 
-I host some of my games, including things for gamejams, at <a href="{{ site.itch-url }}" target="_blank">{{ site.itch-url }}</a>. My source code is available <a href="http://git.city-of-glass.net/gitea">my personal git forge</a> and <a href="{{ site.github-url }}">github for open source contributions</a>.
+I host some of my games, including things for gamejams, at <a href="{{ site.itch-url }}" target="_blank">{{ site.itch-url }}</a>.
 
-The best way to get in touch with me is [email](mailto:cidney@cidneyhamilton.com)! Or use [my contact form](/contact). 
+The best way to get in touch with me is [email](mailto:cidney@cidneyhamilton.com).
 
 ## Privacy Policy
 

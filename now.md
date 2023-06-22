@@ -2,13 +2,48 @@
 layout: page
 title: What I'm Doing Now
 permalink: /now/
-last_updated: November 1, 2022
+last_updated: 2023-06-22
 ---
-I moved back to the Northeast in August! After five years of recovering from a disabling spinal injury and putting some psychological trauma to rest in a gothic horror novel set in my home state of Florida, it was time to move on. I'm adjusting to living in a small space, cooking my own food, and actually being able to get places without a car. It's been a huge adjustment and I'm a little overwhelmed, but things are okay.
 
-The game I was working on with Scott Adams launched in August. An artist I'm friends with has dragged me into working on a new indie project, in collaboration with Steve Alexander of Infamous Quests. I've been working with game industry heavy hitters for the last five years and am feeling a little strange about the whole thing at this point. I'm tentatively looking for more work, so if you need a Unity programmer, please hit me up! 
+There's so much going on right now!
 
-In a couple days I'm leaving New York to go to [AdventureX](https://adventurexpo.org/), and then going back to Berlin. 
+In February, I got married (again). My partner lives in Europe, and I'm in the
+process of applying for residence permit to live in Germany. We're
+renting an apartment together in Berlin. My German is solidly
+beginner-level; I had two semesters of German in college, but haven't
+used it since until quite recently. I'm hoping to take an A2 course
+once things settle down.
+
+Two more games I worked on came out recently-- [Colossal Cave 3D
+Adventure](https://www.colossalcave3d.com/), designed by Roberta
+Williams, and [Summer Daze: Tilly's
+Tale](https://summerdazegame.com/), designed by Corey and Lori
+Cole. Both are available on Steam, as well as a variety of other
+platforms. I could not talk openly about the projects when they were
+in development, and was in the awkward situation of working for my
+former boss's former boss at Sierra Online.
+
+Right now I'm finishing up a contract with NYU for the [Transit Costs
+Project](https://transitcosts.com/), designing a 3D simulation of what
+New York Penn Station could look like if it followed best
+practices. I'm also on to a final round of edits for my novel,
+_Elisabeth_, which I hope to be able to say more about soon!
+
+On a more serious and political note: Many of my friends and family
+are still in Florida, which has become increasingly hostile to the
+majority of its inhabitants. I'm often struggling to communicate about
+the American healthcare system to people outside the United States
+(it's very bad and gets people killed). For those of you following who
+are concerned, I highly recommend donating to [Equality
+Florida](https://www.eqfl.org/), or more locally the [Space Coast
+Progressive Alliance](https://scpaflorida.com/), [Brevard Women's
+Center](https://womenscenter.net) (which also serves men and nonbinary
+people who've been the victims of domestic violence), and the [Marine
+Resources Council](https://savetheirl.org/). I'm still involved with
+volunteering for an environmental nonprofit in the area, but on a very
+minor basis, and experience a lot of guilt and anguish about
+"abandoning" my hometown.
+
 ## Last Updated
 
 Last updated on **{{page.last_updated}}** 

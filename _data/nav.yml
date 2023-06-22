@@ -4,13 +4,5 @@
   url: /about 
 - name: posts i write
   url: /blog
-- name: tools i use
-  url: /uses
-- name: games
-  url: /games
-- name: websites
-  url: /web
-- name: now
+- name: what i'm doing right now
   url: /now
-- name: contact me
-  url: /contact
