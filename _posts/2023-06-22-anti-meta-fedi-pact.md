@@ -4,7 +4,7 @@ title: Signing the Anti-Meta Fedi Pact
 date: 2023-06-22
 ---
 
-Recently, the [Anti-Meta Fedi Pact](https://fedipact.online/) has
+Recently, the [Anti-Meta Fedi Pact](https://fedipact.online/) written by [Vanta Black](https://beach.city/@vantablack) has
 gotten pushback from [Hacker
 News](https://news.ycombinator.com/item?id=36384207), [John
 Gruber](https://daringfireball.net/linked/2023/06/19/not-that-kind-of-open),
