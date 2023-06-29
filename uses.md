@@ -2,7 +2,7 @@
 layout: page
 title: Tools I Use
 permalink: /uses/
-last_updated: February 8, 2022
+last_updated: 2023-06-29
 ---
 
 ### Programming Languages
@@ -24,4 +24,4 @@ last_updated: February 8, 2022
 
 ### Self-hosting
 
-* I self-host my cloud storage, personal git forge, IM server, and social media hub on [http://city-of-glass.net](http://city-of-glass.net). I began experimenting with [YuNoHost](https://yunohost.org/) towards the end of 2020 to make this less painful, and haven't gone back. I still occasionally host other things for experimentation and geekiness, but nothing I've tried to make stable.
+* I self-host Nextcloud and Mastodon on [http://city-of-glass.net](http://city-of-glass.net). Currently only for myself.

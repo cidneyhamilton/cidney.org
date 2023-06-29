@@ -2,7 +2,7 @@
 layout: page
 title: web stuff
 permalink: /web/
-last_updated: February 8, 2022
+last_updated: 2022-02-08
 ---
 
 I used to make websites and web apps for a living! I began doing it for fun when I was 12 years old with a Geocities and Angelfire account; then graduated into buying my own domain names and doing my own graphics and code. 

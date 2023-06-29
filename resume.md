@@ -2,7 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
-last_updated: November 1, 2022
+last_updated: 2022-11-01
 ---
 
 ## Experience
