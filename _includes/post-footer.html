@@ -1,4 +1,7 @@
 <footer class="post-footer">
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+	{%- if page.comments -%}
+	  {%- include fediverse_comments.html -%}
+	{%- endif -%}
   {% include post-meta.html %}
 </footer>
