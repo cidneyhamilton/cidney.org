@@ -16,7 +16,7 @@ gitlab-url: https://gitlab.com/cidney
 facebook-url: https://facebook.com/cidneydev
 
 # Social Sharing Images
-default-image: "/assets/images/default-image.png"
+# default-image: "/assets/images/default-image.png"
 
 # Icons 
 favicon: "/assets/images/favicon.ico"

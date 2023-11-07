@@ -2,8 +2,13 @@
 layout: post
 title: 'Return from AdventureX'
 date: '2023-11-07 13:59:02 +0000'
+comments:
+  host: 'social.city-of-glass.net'
+  username: 'cidney'
+  id: '111370106319416080'
 ---
-I'm on the ICE from Brussels to Köln right now, after a month in the United States and a weekend in London for [AdventureX](http://adventurexpo.org). Soon I'll be changing trains and returning to Berlin, where I've been living for the past year after marrying my EU national partner. GodotConf was unfortunately the same weekend, in Munich. This is sad for those of us with overlapping interests in interactive fiction and free and open source software.
+
+I'm on the ICE from Brussels to Köln right now, after a month in the United States and a weekend in London for [AdventureX](http://adventurexpo.org). Soon I'll be changing trains and returning to Berlin, where I've been living for the past year after marrying my EU national partner. [GodotCon](https://conference.godotengine.org/) was unfortunately the same weekend, in Munich. This is sad for those of us with overlapping interests in interactive fiction and free and open source software.
 
 AdventureX happened after my first month back in the US since moving to Germany. I visited and got to catch up with friends in Boston and New York, who I sadly am unlikely to see in person very often for the foreseeable future. I've been happy with my new city and my partner (we got married after seven years of dating and not being able to visit for more than a few months at a time), but it's an enormous culture shock. I took two semesters of German in college but have had to learn the language almost from scratch since moving, and have very little opportunities to practice it. Most people in Berlin speak English well (except for one immigration officer). I'm hoping by the end of the year I'll be able to have simple conversations in German without embarrassing myself, but getting up to speed is taking time and effort.
 
