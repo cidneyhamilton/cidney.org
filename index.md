@@ -3,6 +3,18 @@ layout: home
 heading: start
 ---
 
-Hi, I'm Cidney, and this is my personal website. 
+Hi, I'm Cidney, and this is my personal website.
 
-I used to be a [web developer](/web), but now I mostly make [adventure games](/games). You can use this website to <a href="{{ site.url }}/about">find out more about me</a>, check out what I'm up to <a href="{{ site.url }}/now">right now</a>, <a href="{{ site.url }}/contact/">get in touch</a> with me, or even see what kind of tools I <a href="{{ site.url}}/uses">use</a>.
+I'm a programmer and designing specializing in [telling stories](/games) through [interactive media](/uses).
+
+### Latest Entries
+
+<ul>
+  {% for post in site.posts limit:5 %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title}}</a> - {{ post.date | date: "%B %d, %Y" }}
+  </li>
+  {% endfor %}
+</ul>
+
+<a href="/blog">View more &rarr;</a>

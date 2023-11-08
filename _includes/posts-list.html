@@ -1,7 +1,23 @@
+
+### 2023
+
 <ul>
-  {% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title}}</a> - {{ post.date | date: "%B %d, %Y" }}
-  </li>
-  {% endfor %}
+{% for post in site.posts %}
+  {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if year == "2023" %}
+	  <li><a href="{{ post.url }}">{{ post.title}}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
+	{% endif %}
+{% endfor %}
+</ul>
+
+
+### 2019-2022
+
+<ul>
+{% for post in site.posts %}
+  {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if year == "2022" or year == "2021" or year == "2019" %}
+	  <li><a href="{{ post.url }}">{{ post.title}}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
+	{% endif %}
+{% endfor %}
 </ul>

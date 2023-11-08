@@ -1,8 +1,12 @@
 - name: home
-  url: /
-- name: about me
-  url: /about 
-- name: posts i write
+  url: / 
+- name: blog
   url: /blog
-- name: what i'm doing right now
+- name: now
   url: /now
+- name: games
+  url: /games
+- name: uses
+  url: /uses
+- name: about
+  url: /about
