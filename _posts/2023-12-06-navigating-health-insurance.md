@@ -3,7 +3,12 @@ layout: post
 title: 'Navigating Health Insurance'
 category: personal
 date: '2023-12-06 12:52:52 +0100'
+comments:
+  host: 'social.city-of-glass.net'
+  username: 'cidney'
+  id: '111535315997854470'
 ---
+
 This month, I've been trying to figure out how to obtain health insurance in Germany. There are two options here: public (the Krankenkasse) and private. 
 
 In America, I wasn't eligible for private insurance due to pre-existing conditions (starting with being a Munchausen by Proxy survivor). Underwriters needed a record of every medical treatment I ever had, including those booked by my abuser for things I didn't have.
