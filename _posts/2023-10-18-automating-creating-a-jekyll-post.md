@@ -13,7 +13,7 @@ It looks like this:
 (defun create-jekyll-draft
   (title)
   "Creates a new buffer and file for a blog post"
-  (interactive "sTitle of blog post: ")
+  (interactive "Title of blog post: ")
   (let
     ((filename
        (concat
