@@ -2,7 +2,7 @@
 layout: page
 title: What I'm Doing Now
 permalink: /now/
-last_updated: 2023-11-08
+last_updated: 2023-12-06
 ---
 
 Let me start with the basics.
