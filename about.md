@@ -21,10 +21,6 @@ I host my own <a href="https://joinmastodon.org/">mastodon</a> instance, where y
 
 I host some of my games, including things for gamejams, at <a href="{{ site.itch-url }}" target="_blank">{{ site.itch-url }}</a>.
 
-## Contact
-
-{% include contact-form.html %}
-
 ## Privacy Policy
 
 There are no analytics or cookies on this website. I don't hold onto anyone's data. You don't need to log in or give me any information. 
