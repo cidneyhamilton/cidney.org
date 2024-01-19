@@ -6,6 +6,15 @@ textarea
 		width: 400px;
 }
 
+input[type="email"],
+input[type="search"],
+input[type="text"],
+textarea
+{		
+		background-color: var(--form-background-color);
+		color: var(--form-text-color);
+}
+ 
 textarea
 {
 		height: 100px;
