@@ -2,6 +2,10 @@
 layout: post
 title: 'Immigration, and silence'
 date: '2024-01-28 20:31:28 +0100'
+comments:
+  host: 'social.city-of-glass.net'
+  username: 'cidney'
+  id: '111835464924021545'
 ---
 
 It's nearly a month into 2024. I've been quietly updating my website--
