@@ -1,3 +1,13 @@
+### 2024
+
+<ul>
+{% for post in site.posts %}
+  {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+  {% if year == "2024" %}
+	  <li><a href="{{ post.url }}">{{ post.title}}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
+	{% endif %}
+{% endfor %}
+</ul>
 
 ### 2023
 
