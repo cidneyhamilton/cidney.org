@@ -3,11 +3,9 @@ layout: home
 heading: start
 ---
 
-Hi, I'm Cidney, and this is my personal website.
+{% include hcard.html %}
 
-I'm a programmer and designing specializing in [telling stories](/games) through [interactive media](/uses).
-
-### Latest Entries
+### Latest Posts
 
 <ul>
   {% for post in site.posts limit:5 %}

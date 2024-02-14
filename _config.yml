@@ -3,7 +3,7 @@ name: Cidney Hamilton
 title: cidney.org
 author: Cidney Hamilton
 email: cidney@cidneyhamilton.com
-description: personal website of Cidney Hamilton
+description: Software engineer turned indie game dev. American living in Berlin. This is my personal website.
 url: https://cidney.org
 source-url: https://github.com/cidneyhamilton/cidney.org
 
@@ -14,9 +14,6 @@ itch-url: https://cidney.itch.io
 github-url: https://github.com/cidneyhamilton
 gitlab-url: https://gitlab.com/cidney
 facebook-url: https://facebook.com/cidneydev
-
-# Social Sharing Images
-# default-image: "/assets/images/default-image.png"
 
 # Icons 
 favicon: "/assets/images/favicon.ico"
