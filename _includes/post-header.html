@@ -18,4 +18,8 @@
 		</h3>
 	</p>
 
+	{% if page.reply_link and page.reply_name %}
+	 {% include hcard-reply.html %}
+	<p>in reply to: <a class="u-in-reply-to" href="{{ page.reply_link }}">{{ page.reply_name }}</a></p>
+	{% endif %}
 </header>

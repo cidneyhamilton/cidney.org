@@ -9,7 +9,7 @@ I make video games! Mostly with Unity, though I've also done some indie stuff wi
 
 I'm primarily a programmer, but I've also done 2D and 3D art, animation, music composition, game design, script writing, sound, voice acting... all the things.
 
-Some video games I've worked on:
+Some commercial games I've worked on:
 
 * [Summer Daze: Tilly's Tale](https://summerdazegame.com)
 * [Colossal Cave 3D Adventure](https://www.colossalcave3d.com/)

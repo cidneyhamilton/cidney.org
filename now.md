@@ -7,7 +7,7 @@ last_updated: 2023-12-06
 
 Let me start with the basics.
 
-- I moved to Germany from the US in 2023! Currently in Berlin.
+- I moved to Germany from the US in 2023! Currently living in Berlin.
 - I do freelance web and game development. Occasionally I find time to do indie dev. :)
 - I live with my partner [Alon](http://pedestrianobservations.com).
 - I'm queer and poly. I present femme.
