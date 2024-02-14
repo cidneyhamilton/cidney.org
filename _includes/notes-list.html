@@ -3,8 +3,13 @@
 <ul>
 	{% for post in notes %}
 	<li>
-		{{ post.content}}
-		<a href="{{ post.url }}">{{ post.date | date: "%B %d, %Y %H:%M" }}</a>
+		<article class="h-entry">
+			<div class="post-content e-content p-content">
+				{{ post.content}}
+			</div>
+			<a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
+			<a class="u-url dt-published" href="{{ post.url }}">{{ post.date | date: "%B %d, %Y %H:%M" }}</a>
+		</article>
 	</li>
 	{% endfor %}
 </ul>
