@@ -7,19 +7,13 @@
 	
   <p class="post-meta">
 		<h3>
-			<time datetime="{{ page.date | date: "%A, %B %d, %Y" }}">{{ page.date | date: "%A, %B %d, %Y" }}</time> • by 
-		<a itemprop="author" rel="author" class="p-author h-card" itemscope itemtype="http://schema.org/Person" href="{{ site.url }}">
-		{% if page.author %}
-		<span itemprop="name">{{ page.author }}</span>
-		{% else %}
-		<span itemprop="name">{{ site.author}}</span>
-		</a>
-		{% endif %}
+			<time datetime="{{ page.date | date: "%A, %B %d, %Y" }}">{{ page.date | date: "%A, %B %d, %Y" }}</time> 
 		</h3>
 	</p>
 
+	{% include hcard-post.html %}
 	{% if page.reply_link and page.reply_name %}
-	 {% include hcard-reply.html %}
 	<p>in reply to: <a class="u-in-reply-to" href="{{ page.reply_link }}">{{ page.reply_name }}</a></p>
 	{% endif %}
+	
 </header>
