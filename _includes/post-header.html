@@ -1,21 +1,19 @@
 <header class="post-header">
 	<div class="header-sub-box">
 	<div class="title-box">
-  <h2 class="post-title p-name" itemprop="name headline">
-    {{ page.title | escape }}
-  </h2>
+  <h2 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h2>
 	</div>
   </div>
 	
   <p class="post-meta">
 		<h3>
 			<time datetime="{{ page.date | date: "%A, %B %d, %Y" }}">{{ page.date | date: "%A, %B %d, %Y" }}</time> • by 
-		<span itemprop="author" itemscope itemtype="http://schema.org/Person">
+		<a itemprop="author" rel="author" class="p-author" itemscope itemtype="http://schema.org/Person" href="{{ site.url }}">
 		{% if page.author %}
 		<span itemprop="name">{{ page.author }}</span>
 		{% else %}
 		<span itemprop="name">{{ site.author}}</span>
-		</span>
+		</a>
 		{% endif %}
 		</h3>
 	</p>
