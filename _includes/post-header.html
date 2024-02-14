@@ -8,7 +8,7 @@
   <p class="post-meta">
 		<h3>
 			<time datetime="{{ page.date | date: "%A, %B %d, %Y" }}">{{ page.date | date: "%A, %B %d, %Y" }}</time> • by 
-		<a itemprop="author" rel="author" class="p-author" itemscope itemtype="http://schema.org/Person" href="{{ site.url }}">
+		<a itemprop="author" rel="author" class="p-author h-card" itemscope itemtype="http://schema.org/Person" href="{{ site.url }}">
 		{% if page.author %}
 		<span itemprop="name">{{ page.author }}</span>
 		{% else %}
