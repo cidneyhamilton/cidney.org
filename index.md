@@ -8,7 +8,8 @@ heading: start
 ### Latest Posts
 
 <ul>
-  {% for post in site.posts limit:5 %}
+	{% assign articles = site.posts | where_exp:"item", "item.title.size > 0" %}
+  {% for post in articles limit:5 %}
   <li>
     <a href="{{ post.url }}">{{ post.title}}</a> - {{ post.date | date: "%B %d, %Y" }}
   </li>

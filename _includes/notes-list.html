@@ -1,0 +1,10 @@
+{% assign notes = site.posts | where_exp:"item", "item.title.size == 0" %}
+
+<ul>
+	{% for post in notes %}
+	<li>
+		{{ post.content}}
+		<a href="{{ post.url }}">{{ post.date | date: "%B %d, %Y %H:%M" }}</a>
+	</li>
+	{% endfor %}
+</ul>

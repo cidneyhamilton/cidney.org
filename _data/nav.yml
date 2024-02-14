@@ -2,6 +2,8 @@
   url: / 
 - name: blog
   url: /blog
+- name: notes
+  url: /notes
 - name: now
   url: /now
 - name: games
