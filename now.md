@@ -2,15 +2,18 @@
 layout: page
 title: What I'm Doing Now
 permalink: /now/
-last_updated: 2023-12-06 
+last_updated: 2024-02-23 
 ---
 
 Let me start with the basics.
 
-- I moved to Germany from the US in 2023! Currently living in Berlin.
-- I do freelance web and game development. Occasionally I find time to do indie dev. :)
-- I live with my partner [Alon](http://pedestrianobservations.com).
+- I live in Berlin with my partner [Alon](http://pedestrianobservations.com).
+- I worked as a software engineer after graduation from college in Boston.
+- Right now I do a combination of consulting and indie game development.
 - I'm queer and poly. I present femme.
+- I'm from Florida's Space Coast. I went to college in Boston.
+- I've also lived in Paris and New York.
+- I speak German and French, but not very fluently. American foreign language education does not tend to be good. :(
 
 Stuff I'm interested in
 - programming
@@ -23,6 +26,4 @@ Stuff I'm interested in
 - vegan cooking/baking
 - retro gaming
 
-Much of this year has been occupied with moving from the US to Germany, finishing
-edits on first book, contract work, and indie game development.
-
+I'm working on assimilating to living in Germany; designing a game (which I expect to be my main priority for the next couple years), and doing consulting. I'm very busy! 
