@@ -2,6 +2,10 @@
 layout: post
 title: 'Narrascope 2024'
 date: '2024-03-11-10:14:44 +0100'
+comments:
+  host: 'social.city-of-glass.net'
+  username: 'cidney'
+  id: '112076372136401526'
 ---
 [Narrascope](https://narrascope.org/), a small conference dedicated to narrative gaming and interactive fiction, is [open for registration](https://narrascope.org/pages/registration.html) for this year's event!
 
