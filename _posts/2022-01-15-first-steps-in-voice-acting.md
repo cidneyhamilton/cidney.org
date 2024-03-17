@@ -2,7 +2,7 @@
 layout: post
 title: First Steps In Voice Acting
 date: 2022-01-15
-category: gamedev
+tags: creativity, tooling
 ---
 
 This week, I hired two actors to record lines for [my last Ludum Dare entry](https://git.city-of-glass.net/gitea/cidney/LudumDare48/src/branch/master/VoiceActorScript.md). This is the first time in over 10 years that I've worked with voice acting.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Navigating Health Insurance'
-category: personal
+tags: personal
 date: '2023-12-06 12:52:52 +0100'
 comments:
   host: 'social.city-of-glass.net'

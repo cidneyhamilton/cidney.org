@@ -2,7 +2,7 @@
 layout: post
 title: Website Overhaul!
 date: 2021-12-19
-category: tooling
+tags: tooling
 ---
 
 I've made some updates to my personal website! It now has a much more minimalist theme.

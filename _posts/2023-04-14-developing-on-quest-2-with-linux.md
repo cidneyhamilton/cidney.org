@@ -2,7 +2,7 @@
 layout: post
 title: Developing for Quest 2 with Linux and Unity in 2023
 date: 2023-04-14
-category: tooling
+tags: tooling, creativity
 
 ---
 I've been helping out with the [Transit Costs

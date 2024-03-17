@@ -3,7 +3,7 @@ layout: post
 title: Emacs Mail Setup with mu4e
 date: 2022-02-04
 redirect_from: /2022/02/04/emacs-mail-setup-on.html
-category: tooling
+tags: tooling
 ---
 
 I've used Emacs off and on since my first year of college. [where it was mandatory](https://cs.wellesley.edu/~anderson/writing/emacs/emacs-intro2.pdf). This probably sucked a fair amount of joy out of the process. I was also primarily SSHing into the school servers to do my email (most people worked in the Linux lab, but this required **walking across campus**, and eww), and didn't figure out I could even customize the GUI until many years later.

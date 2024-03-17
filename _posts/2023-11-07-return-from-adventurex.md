@@ -2,7 +2,7 @@
 layout: post
 title: 'Return from AdventureX'
 date: '2023-11-07 13:59:02 +0000'
-category: creativity
+tags: creativity
 comments:
   host: 'social.city-of-glass.net'
   username: 'cidney'

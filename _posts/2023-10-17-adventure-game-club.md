@@ -2,7 +2,7 @@
 layout: post
 title: Summer Adventure Game Club Highlights
 date: 2023-10-17
-category: creativity
+tags: creativity
 ---
 
 Lately I'm trying to make more time to *play* adventure games. I've

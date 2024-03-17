@@ -2,7 +2,7 @@
 layout: post
 title: 'Immigration, and silence'
 date: '2024-01-28 20:31:28 +0100'
-category: personal
+tags: personal
 comments:
   host: 'social.city-of-glass.net'
   username: 'cidney'

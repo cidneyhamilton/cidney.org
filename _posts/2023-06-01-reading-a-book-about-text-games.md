@@ -2,7 +2,7 @@
 layout: post
 title: Reading 50 Years of Text Games
 date: 2023-06-01
-category: creativity
+tags: creativity
 ---
 
 A few weeks ago, [Aaron Reed](https://mastodon.gamedev.place/@aaronareed) tooted asking for reviewers for his upcoming book, [50 Years of Text Games](https://if50.textories.com/). I DMed him saying that I was interested, and that I'd worked on [the remake of Colossal Cave Adventure](https://store.steampowered.com/app/2215540/Colossal_Cave/). Aaron sent me a review copy-- and I was shocked to find out that a text adventure I'd worked on with some friends years ago was included! 

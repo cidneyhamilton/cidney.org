@@ -2,7 +2,7 @@
 layout: post
 title: I wrote a book!
 date: 2023-06-29
-category: creativity
+tags: creativity
 ---
 
 I wrote a book! After two years worth of self-editing, I'm finally sending it out to beta readers.

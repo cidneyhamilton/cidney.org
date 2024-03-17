@@ -2,7 +2,7 @@
 layout: post
 title: September Life Update
 date: 2021-09-25
-category: personal
+tags: personal
 ---
 
 I'm still in Florida! I've been in Florida for five years now. I'm getting handfasted to my fiancee in October, then trying to wrap things up and move in the spring.

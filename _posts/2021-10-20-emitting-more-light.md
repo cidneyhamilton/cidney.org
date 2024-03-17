@@ -2,7 +2,7 @@
 layout: post
 title: Emitting More Light
 date: 2021-10-26
-category: personal
+tags: personal
 ---
 
 It's been years since I posted something personal on my website. I wasn't always this withdrawn. In my teens, I kept a public personal blog. I wasn't afraid to express emotion, or to embarrass myself.

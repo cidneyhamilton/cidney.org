@@ -2,7 +2,7 @@
 layout: post
 title: 'Playing through IFComp'
 date: '2023-10-29 11:16:23 -0400'
-category: creativity
+tags: creativity
 comments:
   host: 'social.city-of-glass.net'
   username: 'cidney'

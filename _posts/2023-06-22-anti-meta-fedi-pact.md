@@ -2,7 +2,7 @@
 layout: post
 title: Signing the Anti-Meta Fedi Pact
 date: 2023-06-22
-category: tooling
+tagsx: tooling
 ---
 
 Recently, the [Anti-Meta Fedi Pact](https://fedipact.online/) written by [Vanta Black](https://beach.city/@vantablack) has
