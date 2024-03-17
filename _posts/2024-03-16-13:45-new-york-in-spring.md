@@ -6,7 +6,7 @@ tags: personal
 comments:
   host: 'social.city-of-glass.net'
   username: 'cidney'
-  id: '112111658926755083'
+  id: '112111695547235340'
 ---
 I'm in New York this month for the first time since October. It's been three days so far. I've been busy wrapping up some contract work at a cofee shop in Queens, but am able to catch up on errands I can only do in the US.
 
