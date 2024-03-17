@@ -2,6 +2,7 @@
 layout: post
 title: 'Narrascope 2024'
 date: '2024-03-11-10:14:44 +0100'
+category: creativity
 comments:
   host: 'social.city-of-glass.net'
   username: 'cidney'

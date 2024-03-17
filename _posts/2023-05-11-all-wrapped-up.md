@@ -2,8 +2,7 @@
 layout: post
 title: All Wrapped Up
 date: 2023-05-11
-excerpt: "I've managed to release THREE games with industry legends in the past year-- Scott Adams, Ken and Roberta Williams, and Corey and Lori Cole. Here's a brief postmortem."
-image: /assets/images/posts/2023-05-all-wrapped-up.png
+category: gamedev
 ---
 I've managed to release THREE games with industry legends in the past year-- [Scott Adams](https://en.wikipedia.org/wiki/Scott_Adams_(game_designer)), currently at [Clopas](https://www.clopas.net/), [Ken](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) and [Roberta Williams](https://en.wikipedia.org/wiki/Roberta_Williams), currently at [Cygnus Entertainment](https://cygnusentertainment.com/), and [Corey and Lori Cole](https://en.wikipedia.org/wiki/The_Coles), currently at [Transolar Games](https://www.twitch.tv/transolargames). 
 

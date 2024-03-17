@@ -2,6 +2,7 @@
 layout: post
 title: 'Adventure Game Development Frameworks'
 date: '2023-12-21 23:14:35 +0100'
+category: tooling
 comments:
   host: 'social.city-of-glass.net'
   username: 'cidney'

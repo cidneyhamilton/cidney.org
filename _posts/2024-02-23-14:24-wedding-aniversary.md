@@ -2,6 +2,7 @@
 layout: post
 title: Wedding Anniversary
 date: '2024-02-23-14:24:42 +0100'
+category: personal
 ---
 
 Alon and I got married a year ago today. We had a traditional Israeli wedding in T-shirts and jeans at City Hall in Queens, after eight years of dating and not being able to be in the same country for more than a couple months. I've now been living with them in Berlin for about a year, and looking into the process of permanent residency in Europe.

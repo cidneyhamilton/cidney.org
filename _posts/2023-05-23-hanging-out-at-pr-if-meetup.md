@@ -2,6 +2,7 @@
 layout: post
 title: Hanging out at the PR:IF meetup
 date: 2023-05-23
+category: creativity
 ---
 
 Last night I stopped in at the [People's Republic of IF](http://pr-if.org/) Zoom club. This is a local IF club in Boston, organized by my old boss (Angela Chang at the Media Lab), that for years I've had too much impostor syndrome to attend. Now that I'm living in Germany, it's trickier to attend because time zones are trickier-- I'm six hours ahead, and the meetings are scheduled after normal working hours on a weekday in Boston. So I have to stay up well past midnight. Since my partner and I both work with people in the US, our sleep schedules are complicated. 

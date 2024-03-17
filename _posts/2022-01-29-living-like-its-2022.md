@@ -2,6 +2,7 @@
 layout: post
 title: Living Like It's 2022
 date: 2022-01-29
+category: personal
 ---
 
 At the beginning of 2021, I spent a fair amount of time taking stock of my situation. I'd just left the game studio I'd worked at for the last five years, and was uncertain about next steps. Would I stick with narrative gaming, go back to web development, or something else? I had completed the first draft of a novel, made it through a grueling legal battle against my abusive birth mother, and was beginning to process and heal.
