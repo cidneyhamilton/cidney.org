@@ -2,8 +2,6 @@
   url: / 
 - name: blog
   url: /blog
-- name: notes
-  url: /notes
 - name: now
   url: /now
 - name: games
@@ -12,3 +10,5 @@
   url: /uses
 - name: about
   url: /about
+- name: contact
+  url: /contact
