@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Weeknotes'
+title: 'Weeknotes for March 10-16'
 date: '2024-03-17-19:21:07 -0400'
 category: personal
 ---
