@@ -2,7 +2,7 @@
 layout: page
 title: What I'm Doing Now
 permalink: /now/
-last_updated: 2024-02-23 
+last_updated: 2024-03-21
 ---
 
 Let me start with the basics.
@@ -15,6 +15,19 @@ Let me start with the basics.
 - I've also lived in Paris and New York.
 - I speak German and French, but not very fluently. American foreign language education does not tend to be good. :(
 
+Stuff I'm currently learning:
+- German (taking B1 course)
+- Drawing (on Lesson 4 of [Draw-A-Box](http://drawabox.com))
+- Simple texturing and substance painting with Blender
+
+Stuff I'm making:
+- A family-friendly point-and-click adventure game for a client!
+- An adventure game/2D brawler hybrid with some friends
+- A dark fantasy mystery/adventure game as a solo indie dev
+
+Stuff I'm reading:
+- [The Dark Lord's Daughter by Patricia Wrede](https://www.goodreads.com/book/show/25648170-the-dark-lord-s-daughter)
+
 Stuff I'm interested in
 - programming
 - narrative design
@@ -25,5 +38,3 @@ Stuff I'm interested in
 - tabletop RPGs
 - vegan cooking/baking
 - retro gaming
-
-I'm working on assimilating to living in Germany; designing a game (which I expect to be my main priority for the next couple years), and doing consulting. I'm very busy! 
