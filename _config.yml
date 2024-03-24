@@ -24,8 +24,8 @@ font-awesome: "/assets/font-awesome/css/fork-awesome.min.css"
 css-link: "/assets/css/style.css"
 
 # Webmentions
-webmentions:
-  username: cidney.org
+# webmentions:
+#  username: cidney.org
 
 # Build settings
 
