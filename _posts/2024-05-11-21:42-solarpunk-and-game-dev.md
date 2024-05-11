@@ -2,6 +2,10 @@
 layout: post
 title: 'Solarpunk and Game Dev'
 date: '2024-05-11-21:42:53 +0200'
+comments:
+  host: 'social.city-of-glass.net'
+  username: 'cidney'
+  id: '112424475551799841'
 ---
 I'm back in Berlin, and had a chance to spend some time off-and-on at [A Maze](https://2024.amaze-berlin.de/). I didn't know much about it going in, beyond that there's a local games festival.
 
