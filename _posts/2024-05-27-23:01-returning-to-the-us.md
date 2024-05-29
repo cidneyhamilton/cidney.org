@@ -3,6 +3,11 @@ layout: post
 title: 'Returning to the US'
 date: '2024-05-29-10:04:00 -0400'
 category: personal
+comments:
+  host: 'social.city-of-glass.net'
+  username: 'cidney'
+  id: '112524765910499940'
+
 ---
 I've been back in New York for about a week now. [My partner](https://pedestrianobservations.com/) and Iare separated. We still love each other and plan on remaining friends.
 
