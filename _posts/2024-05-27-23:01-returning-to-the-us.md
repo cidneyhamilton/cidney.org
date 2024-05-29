@@ -9,7 +9,7 @@ comments:
   id: '112524765910499940'
 
 ---
-I've been back in New York for about a week now. [My partner](https://pedestrianobservations.com/) and Iare separated. We still love each other and plan on remaining friends.
+I've been back in New York for about a week now. [My partner](https://pedestrianobservations.com/) and I are separated. We still love each other and plan on remaining friends.
 
 I wouldn't consider myself hardcore childfree (in that I'd be open to
 being a stepparent or dating someone with kids), but very much don't
