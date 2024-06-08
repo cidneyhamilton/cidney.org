@@ -25,18 +25,20 @@ up to the player to direct and guide it.
 I've been quietly working on this for the last six months; I have
 puzzle design graphs, design docs, and notebooks with sketches of
 environments and scenes through the game. I've settled on a tech
-stack, using the adventure game engine _Popochiu_ designed for the
-latest version of Godot. Popochiu's version 2 is still in beta, but
-it's been stable enough for me to put together a minimum playable
-prototype of the first act of the game.
+stack, using the adventure game engine
+[Popochiu](https://carenalga.itch.io/popochiu) designed for the latest
+version of [Godot](https://godotengine.org/). Popochiu's version 2 is
+still in beta, but it's been stable enough for me to put together a
+minimum playable prototype of the first act of the game.
 
 Most of the iteration on the narrative design, however, I'm doing in
 Inform7 and in plain text. This allows me to add characters and rooms
 on the fly, without a need for even placeholder art, and see what
 makes sense. The interface is very different-- parser-based rather
 than menu-driven-- and I'm debating using a different IF-authoring
-tool, such as Twine and Ink, to hone in on the dialogue. For now,
-though, the focus is on the world.
+tool, such as [Twine](https://twinery.org/) and
+[Ink](https://www.inklestudios.com/ink/), to hone in on the
+dialogue. For now, though, the focus is on the world.
 
 The game starts in the village, which is smaller and easier to
 model. The move to the city is where it gets tricky. I want to convey
