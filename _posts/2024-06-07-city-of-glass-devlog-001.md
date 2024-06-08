@@ -3,6 +3,10 @@ layout: post
 title: 'City of Glass Devlog #001'
 date: '2024-06-08'
 category: gamedev
+comments:
+  host: 'social.city-of-glass.net'
+  username: 'cidney'
+  id: '112582615696442721'
 ---
 
 This is the first of what I expect to be many devlogs for City of
