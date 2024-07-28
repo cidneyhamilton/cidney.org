@@ -2,7 +2,7 @@
 layout: post
 title: 'City of Glass Devlog #001'
 date: '2024-06-08'
-category: gamedev
+category: gamedev, city-of-glass
 comments:
   host: 'social.city-of-glass.net'
   username: 'cidney'
@@ -43,6 +43,8 @@ than menu-driven-- and I'm debating using a different IF-authoring
 tool, such as [Twine](https://twinery.org/) and
 [Ink](https://www.inklestudios.com/ink/), to hone in on the
 dialogue. For now, though, the focus is on the world.
+
+![Screenshot of source and game text in Inform](/assets/images/posts/city-of-glass-devlog-001.png)
 
 The game starts in the village, which is smaller and easier to
 model. The move to the city is where it gets tricky. I want to convey
