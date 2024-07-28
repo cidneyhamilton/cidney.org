@@ -2,7 +2,7 @@
 layout: post
 title: 'City of Glass Devlog #001'
 date: '2024-06-08'
-category: gamedev, city-of-glass
+category: gamedev
 comments:
   host: 'social.city-of-glass.net'
   username: 'cidney'

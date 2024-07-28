@@ -2,7 +2,7 @@
 layout: post
 title: 'City of Glass Devlog #002'
 date: '2024-07-28-16:50:01 +0200'
-category: gamedev, city-of-glass
+category: gamedev
 ---
 
 I'm back from Narrascope, and continuing to work on City of
