@@ -1,7 +1,9 @@
 ---
 layout: page
-title: All Posts
+title: Blog
 ---
+
+This is an informal collection of things I've written here over the years. All mistakes are mine.
 
 ### 2024
 {% assign articles = site.posts | where_exp:"item", "item.title.size > 0" %}

@@ -2,7 +2,7 @@
 layout: post
 title: Releasing Arctic Blast
 date: 2023-06-21
-tags: creativity
+category: gamedev
 ---
 
 Today I released a new game! [Arctic Blast](http://cidney.itch.io/arctic-blast) is available on Itch.io and playable for free in the browser.

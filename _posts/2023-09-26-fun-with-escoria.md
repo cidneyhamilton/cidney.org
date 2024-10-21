@@ -2,7 +2,7 @@
 layout: post
 title: Fun with Escoria
 date: 2023-09-26
-tags: tooling, creativity
+category: gamedev
 ---
 
 I've been using [Godot](http://godotengine.org), a free and open source game general-purpose game engine, on and off for years, ever since a friend recommended it as an alternative to [Unity](https://unity.com/). I've been doing contract work with Unity for a while, but for my own games, I'd prefer to use FOSS tools where possible. However, most of the non-contract gamedev I've done has been for game jams, which are strictly timed and make experimenting hard. I ported a Ludum Dare entry to Godot a few years ago and discovered that this was more work than anticipated.

@@ -2,7 +2,7 @@
 layout: post
 title: Facebook and the Steady Erosion of User Privacy
 date: 2019-01-15
-tags: tooling
+category: webdev
 ---
 
 The summer before I started college, I logged into my brand new dot-edu email account. From there, I got invited to join a website called "the facebook".
