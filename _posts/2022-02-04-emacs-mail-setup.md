@@ -50,8 +50,8 @@ Mine looks like:
 IMAPAccount fastmail
 Host imap.fastmail.com
 Port 993
-User cidney@fastmail.com
-PassCmd "password here"
+User "your username nere"
+PassCmd "encrypt your password here"
 SSLType IMAPS
 SSLVersions TLSv1.2
 
@@ -75,16 +75,12 @@ Create Near
 SyncState *
 ```
 
-All of these properties are documented [here](https://isync.sourceforge.io/mbsync.html).
-
-PassCmd requires a special note. For now I'm reading it from a plain text file; encryption is beyond the scope of this blog post.
-
-Using Fastmail means I can't just use my account password. I have to go in and [create an app password](https://www.fastmail.help/hc/en-us/articles/360058752854) to access my email. 
+All of these properties are documented [here](https://isync.sourceforge.io/mbsync.html). On Fastmail I need to [create an app password](https://www.fastmail.help/hc/en-us/articles/360058752854) to use for PassCmd.
 
 Now, running
 
 ```
-mbsync -a
+mbsync --all
 ```
 
 from a terminal prompt fetches all of my emails. I can verify this easily by looking at the contents of my `~/Maildir` directory.
