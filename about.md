@@ -5,16 +5,38 @@ permalink: /about/
 last_updated: 2024-03-17
 ---
 
-I'm a queer femme software developer living and working in New York City. I make [games](/game) with various free software [tools](/uses). I am very bad at talking about myself.
 
-## What I Do
+I'm a designer, writer, and software engineer with about 20 years of
+experience, mostly in web and game development. These days I mostly
+make narrative games, with <a href="http://kensbook.com">a</a> <a
+href="https://infamousquests.itch.io/">wide</a> <a
+href="https://www.wadjeteyegames.com/">variety</a> <a
+href="http://www.msadams.com/index.htm">of</a> <a
+href="https://www.hero-u.com/">cool</a> <a
+href="https://robertasbook.com/">people</a>. Some of my games have
+been submitted to competitions such as Ludum Dare and IFComp, others
+have been worked on commercially and with teams. I've previously
+designed websites artists and musicians, done research for a number of
+universities in Boston, and performed as a contortionist in
+Renaissance Faires and circus shows.
 
-I offer technical services to creatives-- musicians, game designers, and other artists. You can see what I'm up to [now](/now).
+I currently live and work in New York City, but am a native of
+Satellite Beach, Florida. I've lived in Paris and Berlin with my
+spouse, [Alon Levy](https://pedestrianobservations.com/), and went to university and lived near Cambridge, Massachusetts for 10 years. I'm a native English speaker with reading proficiency in French
+and conversational proficiency in German. I obtained a bachelor's degree in computer science from [Wellesley College](https://cs.wellesley.edu/) in 2011 as an Elizabeth Kaiser Davis Scholar, and studied at Harvard, MIT, Tufts, Florida Tech, and Massachusetts College of Art.
+
+For fun, I play strategy games, cook and bake vegan food, draw, write, practice circus arts, and make music. 
+
+## Working With Me
+
+I run my own consulting practice and am available for work if the
+project seems like a good fit. I charge on a sliding scale, so <a
+href="{{site.email}}">drop me a line</a> if you'd like to talk. 
 
 ## Privacy Policy
 
 There are no analytics or cookies on this website. I don't hold onto anyone's data. You don't need to log in or give me any information. 
 
-## AI Usage
+## LLM Policy
 
-Everything here is written by me personally, not by AI. This includes writing, graphics, and translations. 
+Everything here is written by me personally; nothing is AI generated or edited. This includes writing, graphics, and translations. 
