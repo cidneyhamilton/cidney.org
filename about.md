@@ -30,8 +30,7 @@ For fun, I play strategy games, cook and bake vegan food, draw, write, practice 
 ## Working With Me
 
 I run my own consulting practice and am available for work if the
-project seems like a good fit. I charge on a sliding scale, so <a
-href="{{site.email}}">drop me a line</a> if you'd like to talk. 
+project seems like a good fit. I charge on a sliding scale, so [drop me a line](mailto:{{site.email}}) if you'd like to talk. 
 
 ## Privacy Policy
 

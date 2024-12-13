@@ -5,7 +5,7 @@ heading: start
 
 {% include hcard.html %}
 
-You can find out more about me and what I do [here](/about). The best way to [contact me](/contact) is by <a href="{{ site.email }}">email</a>.
+You can find out more about me and what I do [here](/about). The best way to [contact me](/contact) is by [email](mailto:{{ site.email }}).
 
 I write longer stuff here and microblog on <a href="{{
 site.fedi-url}}">the fediverse</a>. If you're trying to follow along,
