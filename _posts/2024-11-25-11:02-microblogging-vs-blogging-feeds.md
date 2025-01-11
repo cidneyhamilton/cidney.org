@@ -2,10 +2,6 @@
 layout: post
 title: 'Microblogging vs. blogging feeds'
 date: '2024-11-25-11:02:08 -0500'
-comments:
-  host: 'social.city-of-glass.net'
-  username: 'cidney'
-  id: '113544826739164130'
 ---
 I recently asked my [fediverse mutuals](http://social.city-of-glass.net/@cidney) if any of them have blogs with RSS feeds to subscribe to. I am hoping something pans out soon.
 

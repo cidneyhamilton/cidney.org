@@ -3,10 +3,6 @@ layout: post
 title: 'Ruby Environment Sunk Costs'
 date: '2024-10-21 11:21 -0400'
 categories: webdev
-comments:
-  host: 'social.city-of-glass.net'
-  username: 'cidney'
-  id: '113347006263667285'
 ---
 
 I have a new development laptop! This means my company still owns two
