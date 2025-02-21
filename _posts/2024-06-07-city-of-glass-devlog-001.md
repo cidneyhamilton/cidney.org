@@ -2,7 +2,7 @@
 layout: post
 title: 'City of Glass Devlog #001'
 date: '2024-06-08'
-categories: gamedev devlog city-of-glass
+tags: devlog city-of-glass gamedev
 ---
 
 This is the first of what I expect to be many devlogs for City of
