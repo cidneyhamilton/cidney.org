@@ -6,7 +6,7 @@ category: admin
 
 ---
 
-Just realizing that 2025 posts weren't being linked to on the [blog index](/blog). Fixed. I need to deal with tags and permalinks someday soon. Maybe it'd be easier to get rid of Jekyll and just do the simplest static site possbile. But whenever I look into this, I never get anywhere. Jekyll works, and gives me an excuse to use Ruby.
+Just realizing that 2025 posts weren't being linked to on the [blog index](/blog). Fixed. I need to deal with tags and permalinks someday soon. Maybe it'd be easier to get rid of Jekyll and just do the simplest static site possible. But whenever I look into this, I never get anywhere. Jekyll works, and gives me an excuse to use Ruby.
 
 Maintaining an indie website is *exhausting* with all the various crawlers. I need to get more involved in the indieweb community. Have a number of blog posts I'm behind on. But very tired. Mourning a friend's death, returning to New York to see my father, and trying to figure out how to survive under the current world, have all been a lot.
 
