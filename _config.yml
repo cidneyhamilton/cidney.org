@@ -41,6 +41,15 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+feed:
+  categories:
+    - city-of-glass
+    - gamedev
+    - webdev
+    - personal
+    - emacs
+    - intfiction
+    
 jekyll-archives:
   enabled:
     - categories
