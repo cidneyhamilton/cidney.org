@@ -1,4 +1,0 @@
----
-tag: intfiction
-permalink: "/intfiction/"
----

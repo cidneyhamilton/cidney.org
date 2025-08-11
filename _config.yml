@@ -28,28 +28,26 @@ css-link: "/assets/css/style.css"
 # webmentions:
 #  username: cidney.org
 
-# Collections
-collections:
-  category:
-    output: true
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: category
-    values:
-      layout: "category"
-      
 # Build settings
 
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-
+  - jekyll-archives
+    
 exclude:
   - README.md
   - Rakefile
   - Gemfile
   - Gemfile.lock
 
+jekyll-archives:
+  enabled:
+    - categories
+  layout: category
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
