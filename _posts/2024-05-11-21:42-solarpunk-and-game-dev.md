@@ -2,6 +2,7 @@
 layout: post
 title: 'Solarpunk and Game Dev'
 date: '2024-05-11'
+permalink: /2024/05/11/solarpunk-and-gamedev.html
 category: gamedev
 ---
 

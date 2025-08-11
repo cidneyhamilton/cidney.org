@@ -2,7 +2,10 @@
 layout: post
 title: 'Site update, friend death, sadness'
 date: '2025-07-28'
-categories: webdev, personal
+permalink: '/2025/07/28/site-update.html'
+categories: 
+- webdev
+- personal
 
 ---
 

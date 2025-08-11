@@ -2,7 +2,12 @@
 layout: post
 title: 'City of Glass Devlog #004'
 date: '2025-04-07'
+permalink: '2025/04/07/city-of-glass-devlog-005.html'
+categories: 
+- gamedev
+- city-of-glass
 ---
+
 Happy April! I'm back in New York and the days are getting sunnier and warmer. It's April, the month that City of Glass canonically begins.
 
 I'm still the sole developer on the project, and have been adding placeholder art and music. I expect to hire contractors to help with both of these things as the game progresses, but I want to have everything playable with placeholder assets first before figuring out a budget for that. In the meantime, it's been good motivation to get back to the piano and spend a significant time with my sketchbook. Making music helps relax and calm me-- and giving myself permission to improve and compose is helpful. Similarly, so does drawing and painting. The last point-and-click adventure game I worked on relied extensively on rotoscoping for the pixel art assets. I'm not committed to an art style yet, but I've gotten more confident in my sense of proportion and the ability to render the human figure. I've been following Alex Honeycutt's [curriculum for the solo artist](https://www.reddit.com/r/learnart/comments/dapk62/from_the_guy_who_made_the_most_comprehensive_list/) from 2019 and have been shocked by how much my ability to render the human head and figure has improved. Enough to appreciate what goes into the process.

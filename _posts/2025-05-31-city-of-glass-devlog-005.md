@@ -1,7 +1,11 @@
 ---
 layout: post
 title: 'City of Glass Devlog #005'
+permalink: '2025/05/30/city-of-glass-devlog-005.html'
 date: '2025-05-30'
+categories: 
+- gamedev
+- city-of-glass
 ---
 
 It's almost summer. I'm back in Berlin, and things are progressing

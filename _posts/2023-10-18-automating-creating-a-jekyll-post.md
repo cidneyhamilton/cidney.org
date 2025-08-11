@@ -2,7 +2,9 @@
 layout: post
 title: 'Automating creating a Jekyll post'
 date: '2023-10-18'
-categories: webdev, emacs
+categories: 
+- webdev
+- emacs
 ---
 I'm trying to get myself to write more. So I just added a function (based on [this gist](https://gist.github.com/tpanum/f1bcd76cfdc6d3f3b28a) to automate adding a new timestamped post to my drafts folder.
 

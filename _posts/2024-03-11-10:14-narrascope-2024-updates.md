@@ -2,8 +2,12 @@
 layout: post
 title: 'Narrascope 2024'
 date: '2024-03-11'
-category: gamedev
+permalink: '2024/03/11/narrascope-2024.html'
+categories: 
+- gamedev
+- intfiction
 ---
+
 [Narrascope](https://narrascope.org/), a small conference dedicated to narrative gaming and interactive fiction, is [open for registration](https://narrascope.org/pages/registration.html) for this year's event!
 
 It'll be at the Museum of Play in Rochester, New York. The first event

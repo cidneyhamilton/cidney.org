@@ -2,7 +2,10 @@
 layout: post
 title: 'City of Glass Devlog #001'
 date: '2024-06-08'
-category: gamedev
+permalink: /2024/06/08/city-of-glass-devlog-001.html
+categories: 
+- gamedev
+- city-of-glass
 ---
 
 This is the first of what I expect to be many devlogs for City of

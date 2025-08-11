@@ -1,8 +1,11 @@
 ---
 layout: post
 title: 'Playing through IFComp'
-date: '2023-10-29 11:16:23 -0400'
-tags: gamedev
+date: '2023-10-29'
+permalink: '/2023/10/29/playing-through-ifcomp.html'
+categories: 
+- gamedev
+- intfiction
 ---
 
 The yearly Interactive Fiction Competition is [here](https://ifcomp.org/ballot), and open for judging until November 15. This year I've had time to play and judge about twenty games, and want to squee about one I particularly liked: [Please Sign Here](https://ifcomp.org/play/2916/play_online) by Road.

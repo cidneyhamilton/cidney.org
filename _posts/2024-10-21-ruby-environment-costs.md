@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Ruby Environment Sunk Costs'
-date: '2024-10-21 11:21 -0400'
+date: '2024-10-21'
+permalink: '/2024/10/21/ruby-environment-costs.html'
 category: webdev
 ---
 

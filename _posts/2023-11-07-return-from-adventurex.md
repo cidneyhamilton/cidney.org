@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 'Return from AdventureX'
-date: '2023-11-07 13:59:02 +0000'
-category: gamedev
+date: '2023-11-07'
+permalink: '/2023/11/07/return-from-adventurex.html'
+categories: 
+- gamedev
 ---
 
 I'm on the ICE from Brussels to Köln right now, after a month in the United States and a weekend in London for [AdventureX](http://adventurexpo.org). Soon I'll be changing trains and returning to Berlin, where I've been living for the past year after marrying my EU national partner. [GodotCon](https://conference.godotengine.org/) was unfortunately the same weekend, in Munich. This is sad for those of us with overlapping interests in interactive fiction and free and open source software.

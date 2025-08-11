@@ -2,7 +2,10 @@
 layout: post
 title: 'City of Glass Devlog #003'
 date: '2025-02-21'
-category: gamedev
+permalink: '/2025/02/21/city-of-glass-devlog-003.html'
+categories: 
+- gamedev
+- city-of-glass
 ---
 
 This is the third devlog for my in-progress adventure/RPG, City of

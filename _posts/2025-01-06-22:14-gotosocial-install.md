@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'GoToSocial install'
-date: '2025-01-06-22:14:27 +0100'
+date: '2025-01-06'
+permalink: '/2025/01/06/22-14-gotosocial-install.html
 category: webdev
 ---
 

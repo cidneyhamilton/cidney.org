@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Make America Florida -- Or Not'
-date: '2025-03-26-11:35:53 -0400'
-tags: politics usa personal 
+date: '2025-03-26'
+permalink: '/2025/03/26/make-america-florida-or-no.html'
+category: personal
 ---
 
 I'm back in the US after three months in Germany. This time it's very much just a visit, not going home.
