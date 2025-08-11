@@ -2,9 +2,10 @@
 layout: post
 title: Developing for Quest 2 with Linux and Unity in 2023
 date: 2023-04-14
+permalink: /2023/04/14/developing-on-quest-2-with-linux.html
 category: gamedev
-
 ---
+
 I've been helping out with the [Transit Costs
 Project](https://marroninstitute.nyu.edu/projects/transit-costs-project)
 at New York University lately. I'm partnering with a game artist to

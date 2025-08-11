@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'City of Glass Devlog #003'
-date: '2025-02-21-13:53:00 +0200'
-tags: devlog gamedev city-of-glass
+date: '2025-02-21'
+category: gamedev
 ---
 
 This is the third devlog for my in-progress adventure/RPG, City of

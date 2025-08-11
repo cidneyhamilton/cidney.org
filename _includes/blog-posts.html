@@ -2,7 +2,7 @@
 
 <ul>
 {% assign articles = site.posts | where_exp:"item", "item.title.size > 0" %}
-{% for post in articles limit:10 %}
+{% for post in articles limit:include.limit %}
 <li>
 <a href="{{ post.url }}">{{ post.title}}</a> - {{ post.date | date: "%B %d, %Y" }}
 </li>

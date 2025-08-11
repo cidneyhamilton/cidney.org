@@ -1,0 +1,14 @@
+{% assign articles = site.posts | where_exp:"item", "item.title.size > 0" %}
+
+<h3>{{ include.year }}</h3>
+<ul>
+  {% for post in articles %}
+
+  {% capture year %}{{ post.date | date: "%Y"}}{% endcapture %}
+
+  {% if year == include.year %}
+  <li><a href="{{ post.url }}">{{ post.title}}</a> - {{ post.date | date: "%B %d, %Y" }}</li>
+  {% endif %}
+
+  {% endfor %}
+</ul>

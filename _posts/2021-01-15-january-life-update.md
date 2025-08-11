@@ -2,6 +2,7 @@
 layout: post
 title: January 2021 Life Update
 date: 2021-01-15
+permalink: /2021/01/15/january-life-update.html
 category: personal
 ---
 Before the pandemic, I was planning on leaving Florida. I'm likely to be here for some time now, though. So far, I haven't gotten sick, but many people I care about have. The world is a frightening place these days.

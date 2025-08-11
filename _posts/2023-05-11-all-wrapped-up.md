@@ -4,6 +4,7 @@ title: All Wrapped Up
 date: 2023-05-11
 category: personal
 ---
+
 I've managed to release THREE games with industry legends in the past year-- [Scott Adams](https://en.wikipedia.org/wiki/Scott_Adams_(game_designer)), currently at [Clopas](https://www.clopas.net/), [Ken](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) and [Roberta Williams](https://en.wikipedia.org/wiki/Roberta_Williams), currently at [Cygnus Entertainment](https://cygnusentertainment.com/), and [Corey and Lori Cole](https://en.wikipedia.org/wiki/The_Coles), currently at [Transolar Games](https://www.twitch.tv/transolargames). 
 
 My contract with Transolar wrapped up a year after Hero-U: Rogue to Redemption shipped; I was working on a visual novel set in the same universe, [Summer Daze: Tilly's Tale](https://store.steampowered.com/app/1139490/Summer_Daze_Tillys_Tale/), on top of doing ongoing bug support for Hero-U. Eventually I needed to move on; I was largely waiting on the author to finish the script, and needed to save up to get out of a bad living situation in Florida! Rather randomly, Roberta Vaughan of the [Classic Gamers Guild](https://www.facebook.com/groups/ClassicGamersGuild/) reached out to me and connected me with Ken Williams, who at the time was working on a new, unnannounced game.

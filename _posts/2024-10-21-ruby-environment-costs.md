@@ -2,7 +2,7 @@
 layout: post
 title: 'Ruby Environment Sunk Costs'
 date: '2024-10-21 11:21 -0400'
-categories: webdev
+category: webdev
 ---
 
 I have a new development laptop! This means my company still owns two

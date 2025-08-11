@@ -1,0 +1,5 @@
+---
+tag: writing
+permalink: "/writing/"
+---
+

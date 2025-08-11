@@ -2,7 +2,9 @@
 layout: post
 title: 'Microblogging vs. blogging feeds'
 date: '2024-11-25-11:02:08 -0500'
+category: webdev
 ---
+
 I recently asked my [fediverse mutuals](http://social.city-of-glass.net/@cidney) if any of them have blogs with RSS feeds to subscribe to. I am hoping something pans out soon.
 
 I've been AFK for the last few weeks dealing with a housing

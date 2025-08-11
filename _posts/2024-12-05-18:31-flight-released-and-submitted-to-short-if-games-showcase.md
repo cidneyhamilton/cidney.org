@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Flight released and submitted to Short IF Games Showcase'
-date: '2024-12-05-18:31:50 -0500'
+date: '2024-12-05'
+category: gamedev
 ---
 
 I made a short Twine game earlier this year! It's called Flight; it has

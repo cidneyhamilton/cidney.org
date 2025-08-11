@@ -1,0 +1,4 @@
+---
+tag: gamedev
+permalink: "/gamedev/"
+---

@@ -2,6 +2,7 @@
 layout: post
 title: Facebook and the Steady Erosion of User Privacy
 date: 2019-01-15
+permalink: /2019/01/15/facebook-and-the-steady-erosion-of-user-privacy.html
 category: webdev
 ---
 

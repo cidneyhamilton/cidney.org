@@ -2,6 +2,7 @@
 layout: post
 title: 'Breathing and grief'
 date: '2025-08-07'
+categories: gamdev, personal, writing
 ---
 
 I've been back in New York for nearly two weeks now.

@@ -2,7 +2,9 @@
 layout: post
 title: 'GoToSocial install'
 date: '2025-01-06-22:14:27 +0100'
+category: webdev
 ---
+
 I've deleted my Mastodon instance and am running a different
 ActivityPub server instead. Follow me at
 [cidney@social.cidney.org](http://social.cidney.org/@cidney).
