@@ -2,7 +2,7 @@
 # Main SASS file, includes all the others
 ---
 
-@import "blank";
-@import "form";
-@import "lightmode";
-@import "darkmode";
+@use "blank";
+@use "form";
+@use "lightmode";
+@use "darkmode";
