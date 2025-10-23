@@ -35,7 +35,7 @@ had no idea if I'd be able to fly without injuring myself. She was
 understanding and accommodating-- she had chronic illnesses herself,
 she had been in a car accident herself.
 
-True to her word, Roberta met me at the airport, in full Katrina
+True to her word, Roberta met me at the airport, in full [Katrina](https://www.rockpapershotgun.com/gaming-made-me-quest-for-glory-iv)
 cosplay. We recognized each other immediately, hugged, and she went
 from being a work colleague to a close friend.
 
@@ -85,7 +85,7 @@ to look forward to.
 Carrying on without her-- making the games Roberta would want me to
 make, forging and strengthening the connections she'd been making for
 me with her community, knowing how much her service took out of
-her... has been impossiblyl hard. For the last few years I knew how
+her... has been impossibly hard. For the last few years I knew how
 much strain she was under, and how determined she was to push herself
 past that to support the people and projects she loved. Her death was
 sudden, shocking, and traumatic. She was way too young.
