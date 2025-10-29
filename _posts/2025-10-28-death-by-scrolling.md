@@ -14,4 +14,4 @@ Who recently released a new game, Death by Scrolling, with [Elissa](https://eige
 
 I did not do any work in this game or have any ties to its success whatsoever beyond a general sense of community pride and good wishes for the developers for getting their project out in the open. I mostly work with Sierra alums. But where there's mourning, there's also joy.
 
-Congrats to Terrible Toybox for making this happen. <3
+<iframe src="https://store.steampowered.com/widget/3773590/" frameborder="0" width="646" height="190"></iframe>
