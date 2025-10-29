@@ -12,3 +12,4 @@ Install Ruby and RubyGems. Install the gems `jekyll` and `bundler`. `bundle upda
 - [ ] No page for category listings (/gamedev, etc)
 - [ ] Handle sharing screenshots (Screenshot Saturday, etc)
 - [ ] Too much work and personal intertwinedness? Or not enough?
+So uh how do I get people over 50
